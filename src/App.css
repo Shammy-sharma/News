@@ -1,0 +1,125 @@
+/* .st{
+padding: 30px,0;
+text-align: center;
+text-transform: uppercase;
+font-size: 13px;
+letter-spacing: 2px;
+font-weight: 500;
+background-color: #fff;
+font-size: 1.5rem;
+margin-bottom: 30px;
+} */
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+/*.count{
+    text-align: center;
+    color: white ;
+    margin-top: 50vh;*/
+
+
+
+/* .btn{
+    background-color:black;
+    color: white;
+   text-transform: uppercase;
+   cursor: pointer;
+   width: 88px;
+   height: 28px;
+   border-radius: 5px;
+   outline: none;
+   margin: 10px;
+  
+}
+.btn:hover{
+    color: orange;
+}
+.bt{
+    text-align: center;
+    
+} */
+
+
+/* body{
+    background-image: url("https://images.pexels.com/photos/1417255/pexels-photo-1417255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+} */
+/* h1{
+    text-align: center;
+}
+div{
+    background-color: aqua;
+    
+}
+
+}*/
+/* input{
+    height: 5vh;
+    width: 20vh;
+    text-align: center;
+    font-size: 19px;
+    background: beige;
+    
+}
+div{
+text-align: center;
+}
+.img{
+    margin: 10px;
+} */
+ /* .st{
+    height: 50vh;
+    width: 100vh;
+ }
+ 
+ .btnm{
+    text-align: center;
+ } */
+ /* .nav-item a{
+    color: aqua;
+ } */
+ .input{
+    text-align: center;
+ }
+ .btx{
+    background-color:black;
+    color: white;
+   text-transform: uppercase;
+
+   width: 88px;
+   height: 28px;
+   border-radius: 5px;
+   outline: none;
+   margin: 10px;
+ }
+ .tt{
+    text-align: center;
+ }
+ 
+ .con{
+    text-align: center;
+    height: 64vh;
+    width: 58vh;
+    background-color: aqua;
+    margin-left: 71vh;
+    border-radius: 12px;
+    margin-top: 20vh;
+
+ }
+
+ .li{
+    margin-right: 50vh;
+    text-decoration: none;
+   
+    
+ }
+ .del:hover{
+    color: red;
+    cursor: pointer;
+ }
+ .ol li{
+    text-decoration: none;
+ }
